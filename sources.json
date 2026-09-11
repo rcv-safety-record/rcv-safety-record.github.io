@@ -1,0 +1,28 @@
+{
+  "name": "RCV Safety Record source index",
+  "url": "https://rcv-safety-record.github.io/",
+  "subject": {
+    "name": "Residences at Congressional Village",
+    "address": "198 Halpine Road, Rockville, MD 20852",
+    "officialWebsite": "https://www.allegiant-carter.com/apartments/md/rockville/residences-at-congressional-village/"
+  },
+  "sources": [
+    {"type":"official property website","url":"https://www.allegiant-carter.com/apartments/md/rockville/residences-at-congressional-village/","status":"linked; descriptive property source"},
+    {"type":"official property contact","url":"https://www.allegiant-carter.com/apartments/md/rockville/residences-at-congressional-village/contact-us","status":"linked; property contact page"},
+    {"type":"official county process","url":"https://www.montgomerycountymd.gov/department-permitting-services/all-permits/fire-permits/fcc-permit-process","status":"linked; inspection and documentation requirements"},
+    {"type":"official county code","url":"https://codelibrary.amlegal.com/codes/montgomerycounty/latest/montgomeryco_md_comcor/0-0-0-11650","status":"linked; fire-safety code"},
+    {"type":"official city permit publication","url":"https://www.rockvillemd.gov/wp-content/uploads/2026/02/isd-01-26.pdf","status":"linked; January 2026 permit 2026-14400-FPS"},
+    {"type":"news","url":"https://hoodline.com/2026/04/rockville-blaze-rips-through-apartment-sends-older-woman-to-hospital-and-ousts-families/","status":"linked; secondary reporting"},
+    {"type":"news","url":"https://mocoshow.com/2026/04/18/elderly-resident-injured-after-fire-in-rockville-apartment/","status":"linked; secondary reporting"},
+    {"type":"news","url":"https://bethesdamagazine.com/2026/04/20/woman-injured-families-displaced-rockville-fire/","status":"linked; access limited during capture"},
+    {"type":"resident reviews","url":"https://www.apartmentratings.com/md/rockville/the-residences-at-congressional-village_301468880020852/#ratingsReviews","status":"linked; attributed third-party reports"},
+    {"type":"resident reviews","url":"https://www.forrent.com/md/rockville/the-residences-at-congressional-village/lrsette","status":"linked; attributed third-party reports"},
+    {"type":"resident reviews","url":"https://www.yelp.com/biz/the-residences-at-congressional-village-rockville-4","status":"linked; device verification prevented capture"},
+    {"type":"social media","url":"https://nextdoor.com/p/SWLYnsqCzmHS?post=509438286","status":"linked; authenticated source view reviewed; original digest preserved privately"},
+    {"type":"social media","url":"https://www.instagram.com/p/DXSaDZKAOrK/","status":"linked; retrieval throttled during capture"},
+    {"type":"dispatch index","url":"https://radar.newsbreak.com/rockville-md/45308_1775493626_ygwafqhx-routine-fire-alarm-at-congressional-village-residence","status":"linked; unofficial AI-transcribed index"},
+    {"type":"dispatch index","url":"https://radar.newsbreak.com/rockville-md/11160-4000_1776549494_vnezwyen-fire-alarm-at-residence-in-congressional-village","status":"linked; unofficial AI-transcribed index"},
+    {"type":"dispatch index","url":"https://www.uscrimeradar.com/rockville-md/11160-4005_1776619987_kjtfclnf-fire-alarm-at-congressional-village-on-alpine-road","status":"linked; exact transcript not captured"},
+    {"type":"dispatch index","url":"https://www.uscrimeradar.com/rockville-md/11160-4000_1780896105_rrceophy-fire-alarm-at-congressional-village-residence","status":"linked; exact transcript not captured"}
+  ]
+}
